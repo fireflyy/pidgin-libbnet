@@ -1,3 +1,6 @@
+This is a fork, original can be found here: https://github.com/nmbook/pidgin-libbnet
+I just fork this to play around a little bit & learn.
+
 # Classic Battle.net Plugin for Pidgin
 
 Introduction
